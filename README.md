@@ -1,7 +1,5 @@
 ## Hi there. I'm Sankalp 👋
 
-## I'm a software developer
-
 - 💻 I'm currently working on creating templates for various tools and technology
 - 📘 I'm currently learning how large organisations are architecting their backend services
 - 🤝🏻 I'm looking to collaborate on projects which help automate developer workflow and in developing UI design systems
